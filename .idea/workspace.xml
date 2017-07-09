@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31fc1665-ce34-4592-81c2-b8603609dd6d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala-2.10/task3.scala" afterPath="$PROJECT_DIR$/src/main/scala-2.10/task3.scala" />
-    </list>
+    <list default="true" id="31fc1665-ce34-4592-81c2-b8603609dd6d" name="Default" comment="" />
     <ignored path="actress_director_frequentpairs.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
